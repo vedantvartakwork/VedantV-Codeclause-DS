@@ -1,3 +1,3 @@
 # demo
-This is my first demo git repository
-Authior - Vedant Vartak
+This is my first demo git repository</br>
+Author - Vedant Vartak
