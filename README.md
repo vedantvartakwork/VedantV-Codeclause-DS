@@ -1,3 +1,3 @@
-# demo
-This is my first demo git repository</br>
+# CodeClause DS internship
+Codes for DS internship at CodeClause
 Author - Vedant Vartak
